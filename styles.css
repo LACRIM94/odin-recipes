@@ -1,0 +1,30 @@
+/* Home page */
+
+#title {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+/* French Tacos page */
+
+#tacos {
+    height: auto;
+    width: 500px;
+}
+
+#filling-ingredients {
+    color: blue;
+}
+
+#steps {
+    color: red;
+}
+
+/* Couscous page */
+
+#couscous-title {
+    font-family: "Brush Script MT", cursive;
+}
+
+/* Spaghetti page */
+
